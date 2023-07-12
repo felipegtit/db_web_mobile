@@ -1,0 +1,1608 @@
+{
+    "autoren": [
+        {
+            "id": 1,
+            "name": "Autor 1",
+            "geburtstag": "1969-6-7"
+        },
+        {
+            "id": 2,
+            "name": "Autor 2",
+            "geburtstag": "1950-9-2"
+        },
+        {
+            "id": 3,
+            "name": "Autor 3",
+            "geburtstag": "1967-2-10"
+        },
+        {
+            "id": 4,
+            "name": "Autor 4",
+            "geburtstag": "1952-1-18"
+        },
+        {
+            "id": 5,
+            "name": "Autor 5",
+            "geburtstag": "1969-10-8"
+        },
+        {
+            "id": 6,
+            "name": "Autor 6",
+            "geburtstag": "1970-8-8"
+        },
+        {
+            "id": 7,
+            "name": "Autor 7",
+            "geburtstag": "1965-2-11"
+        },
+        {
+            "id": 8,
+            "name": "Autor 8",
+            "geburtstag": "1970-5-19"
+        },
+        {
+            "id": 9,
+            "name": "Autor 9",
+            "geburtstag": "1998-9-2"
+        },
+        {
+            "id": 10,
+            "name": "Autor 10",
+            "geburtstag": "1982-10-10"
+        },
+        {
+            "id": 11,
+            "name": "Autor 11",
+            "geburtstag": "1988-2-20"
+        },
+        {
+            "id": 12,
+            "name": "Autor 12",
+            "geburtstag": "1980-2-9"
+        },
+        {
+            "id": 13,
+            "name": "Autor 13",
+            "geburtstag": "1974-8-14"
+        },
+        {
+            "id": 14,
+            "name": "Autor 14",
+            "geburtstag": "1986-10-3"
+        },
+        {
+            "id": 15,
+            "name": "Autor 15",
+            "geburtstag": "1981-4-11"
+        },
+        {
+            "id": 16,
+            "name": "Autor 16",
+            "geburtstag": "1960-6-3"
+        },
+        {
+            "id": 17,
+            "name": "Autor 17",
+            "geburtstag": "1969-8-9"
+        },
+        {
+            "id": 18,
+            "name": "Autor 18",
+            "geburtstag": "1957-11-19"
+        },
+        {
+            "id": 19,
+            "name": "Autor 19",
+            "geburtstag": "1969-4-1"
+        },
+        {
+            "id": 20,
+            "name": "Autor 20",
+            "geburtstag": "1980-1-17"
+        },
+        {
+            "id": 21,
+            "name": "Autor 21",
+            "geburtstag": "1963-6-19"
+        },
+        {
+            "id": 22,
+            "name": "Autor 22",
+            "geburtstag": "1979-10-17"
+        },
+        {
+            "id": 23,
+            "name": "Autor 23",
+            "geburtstag": "1968-4-1"
+        },
+        {
+            "id": 24,
+            "name": "Autor 24",
+            "geburtstag": "1973-6-27"
+        },
+        {
+            "id": 25,
+            "name": "Autor 25",
+            "geburtstag": "1990-4-2"
+        },
+        {
+            "id": 26,
+            "name": "Autor 26",
+            "geburtstag": "1988-1-26"
+        },
+        {
+            "id": 27,
+            "name": "Autor 27",
+            "geburtstag": "1978-6-23"
+        },
+        {
+            "id": 28,
+            "name": "Autor 28",
+            "geburtstag": "1985-4-24"
+        },
+        {
+            "id": 29,
+            "name": "Autor 29",
+            "geburtstag": "1980-11-26"
+        },
+        {
+            "id": 30,
+            "name": "Autor 30",
+            "geburtstag": "1974-1-18"
+        },
+        {
+            "id": 31,
+            "name": "Autor 31",
+            "geburtstag": "1973-10-6"
+        },
+        {
+            "id": 32,
+            "name": "Autor 32",
+            "geburtstag": "1984-2-4"
+        },
+        {
+            "id": 33,
+            "name": "Autor 33",
+            "geburtstag": "1977-9-5"
+        },
+        {
+            "id": 34,
+            "name": "Autor 34",
+            "geburtstag": "1968-8-19"
+        },
+        {
+            "id": 35,
+            "name": "Autor 35",
+            "geburtstag": "1976-6-18"
+        },
+        {
+            "id": 36,
+            "name": "Autor 36",
+            "geburtstag": "1974-6-6"
+        },
+        {
+            "id": 37,
+            "name": "Autor 37",
+            "geburtstag": "1954-2-12"
+        },
+        {
+            "id": 38,
+            "name": "Autor 38",
+            "geburtstag": "1997-8-3"
+        },
+        {
+            "id": 39,
+            "name": "Autor 39",
+            "geburtstag": "1986-9-13"
+        },
+        {
+            "id": 40,
+            "name": "Autor 40",
+            "geburtstag": "1974-3-3"
+        },
+        {
+            "id": 41,
+            "name": "Autor 41",
+            "geburtstag": "1968-8-8"
+        },
+        {
+            "id": 42,
+            "name": "Autor 42",
+            "geburtstag": "1994-11-21"
+        },
+        {
+            "id": 43,
+            "name": "Autor 43",
+            "geburtstag": "1953-12-13"
+        },
+        {
+            "id": 44,
+            "name": "Autor 44",
+            "geburtstag": "1973-8-21"
+        },
+        {
+            "id": 45,
+            "name": "Autor 45",
+            "geburtstag": "1991-9-23"
+        },
+        {
+            "id": 46,
+            "name": "Autor 46",
+            "geburtstag": "1953-4-17"
+        },
+        {
+            "id": 47,
+            "name": "Autor 47",
+            "geburtstag": "1986-10-8"
+        },
+        {
+            "id": 48,
+            "name": "Autor 48",
+            "geburtstag": "1993-7-22"
+        },
+        {
+            "id": 49,
+            "name": "Autor 49",
+            "geburtstag": "1995-5-15"
+        },
+        {
+            "id": 50,
+            "name": "Autor 50",
+            "geburtstag": "2000-1-1"
+        },
+        {
+            "id": 51,
+            "name": "Autor 51",
+            "geburtstag": "1955-3-21"
+        },
+        {
+            "id": 52,
+            "name": "Autor 52",
+            "geburtstag": "1958-5-25"
+        },
+        {
+            "id": 53,
+            "name": "Autor 53",
+            "geburtstag": "1956-1-12"
+        },
+        {
+            "id": 54,
+            "name": "Autor 54",
+            "geburtstag": "1981-4-8"
+        },
+        {
+            "id": 55,
+            "name": "Autor 55",
+            "geburtstag": "1996-1-24"
+        },
+        {
+            "id": 56,
+            "name": "Autor 56",
+            "geburtstag": "1996-1-11"
+        },
+        {
+            "id": 57,
+            "name": "Autor 57",
+            "geburtstag": "1983-11-24"
+        },
+        {
+            "id": 58,
+            "name": "Autor 58",
+            "geburtstag": "1957-3-12"
+        },
+        {
+            "id": 59,
+            "name": "Autor 59",
+            "geburtstag": "1988-10-2"
+        },
+        {
+            "id": 60,
+            "name": "Autor 60",
+            "geburtstag": "1960-2-17"
+        },
+        {
+            "id": 61,
+            "name": "Autor 61",
+            "geburtstag": "1974-6-22"
+        },
+        {
+            "id": 62,
+            "name": "Autor 62",
+            "geburtstag": "1996-12-6"
+        },
+        {
+            "id": 63,
+            "name": "Autor 63",
+            "geburtstag": "1962-11-12"
+        },
+        {
+            "id": 64,
+            "name": "Autor 64",
+            "geburtstag": "1991-11-14"
+        },
+        {
+            "id": 65,
+            "name": "Autor 65",
+            "geburtstag": "1951-4-27"
+        },
+        {
+            "id": 66,
+            "name": "Autor 66",
+            "geburtstag": "1956-6-16"
+        },
+        {
+            "id": 67,
+            "name": "Autor 67",
+            "geburtstag": "1979-7-7"
+        },
+        {
+            "id": 68,
+            "name": "Autor 68",
+            "geburtstag": "1953-2-19"
+        },
+        {
+            "id": 69,
+            "name": "Autor 69",
+            "geburtstag": "1952-4-1"
+        },
+        {
+            "id": 70,
+            "name": "Autor 70",
+            "geburtstag": "1978-7-7"
+        },
+        {
+            "id": 71,
+            "name": "Autor 71",
+            "geburtstag": "1984-3-21"
+        },
+        {
+            "id": 72,
+            "name": "Autor 72",
+            "geburtstag": "1997-6-6"
+        },
+        {
+            "id": 73,
+            "name": "Autor 73",
+            "geburtstag": "1969-8-4"
+        },
+        {
+            "id": 74,
+            "name": "Autor 74",
+            "geburtstag": "1960-4-26"
+        },
+        {
+            "id": 75,
+            "name": "Autor 75",
+            "geburtstag": "2000-7-28"
+        },
+        {
+            "id": 76,
+            "name": "Autor 76",
+            "geburtstag": "1965-7-21"
+        },
+        {
+            "id": 77,
+            "name": "Autor 77",
+            "geburtstag": "1976-6-14"
+        },
+        {
+            "id": 78,
+            "name": "Autor 78",
+            "geburtstag": "1983-3-5"
+        },
+        {
+            "id": 79,
+            "name": "Autor 79",
+            "geburtstag": "1974-11-4"
+        },
+        {
+            "id": 80,
+            "name": "Autor 80",
+            "geburtstag": "1961-1-13"
+        },
+        {
+            "id": 81,
+            "name": "Autor 81",
+            "geburtstag": "1950-10-1"
+        },
+        {
+            "id": 82,
+            "name": "Autor 82",
+            "geburtstag": "1981-11-2"
+        },
+        {
+            "id": 83,
+            "name": "Autor 83",
+            "geburtstag": "1959-4-19"
+        },
+        {
+            "id": 84,
+            "name": "Autor 84",
+            "geburtstag": "1951-8-7"
+        },
+        {
+            "id": 85,
+            "name": "Autor 85",
+            "geburtstag": "1979-10-21"
+        },
+        {
+            "id": 86,
+            "name": "Autor 86",
+            "geburtstag": "1997-9-5"
+        },
+        {
+            "id": 87,
+            "name": "Autor 87",
+            "geburtstag": "1953-3-24"
+        },
+        {
+            "id": 88,
+            "name": "Autor 88",
+            "geburtstag": "1988-11-27"
+        },
+        {
+            "id": 89,
+            "name": "Autor 89",
+            "geburtstag": "1998-2-11"
+        },
+        {
+            "id": 90,
+            "name": "Autor 90",
+            "geburtstag": "1957-12-4"
+        },
+        {
+            "id": 91,
+            "name": "Autor 91",
+            "geburtstag": "1954-5-24"
+        },
+        {
+            "id": 92,
+            "name": "Autor 92",
+            "geburtstag": "1964-5-10"
+        },
+        {
+            "id": 93,
+            "name": "Autor 93",
+            "geburtstag": "2000-10-28"
+        },
+        {
+            "id": 94,
+            "name": "Autor 94",
+            "geburtstag": "1955-10-4"
+        },
+        {
+            "id": 95,
+            "name": "Autor 95",
+            "geburtstag": "1977-11-25"
+        },
+        {
+            "id": 96,
+            "name": "Autor 96",
+            "geburtstag": "1990-11-14"
+        },
+        {
+            "id": 97,
+            "name": "Autor 97",
+            "geburtstag": "1977-11-1"
+        },
+        {
+            "id": 98,
+            "name": "Autor 98",
+            "geburtstag": "1992-4-14"
+        },
+        {
+            "id": 99,
+            "name": "Autor 99",
+            "geburtstag": "1981-8-10"
+        },
+        {
+            "id": 100,
+            "name": "Autor 100",
+            "geburtstag": "1992-1-18"
+        }
+    ],
+    "buecher": [
+        {
+            "id": 1,
+            "titel": "Buch 1",
+            "autor_id": 93,
+            "verlag_id": 38
+        },
+        {
+            "id": 2,
+            "titel": "Buch 2",
+            "autor_id": 29,
+            "verlag_id": 5
+        },
+        {
+            "id": 3,
+            "titel": "Buch 3",
+            "autor_id": 56,
+            "verlag_id": 27
+        },
+        {
+            "id": 4,
+            "titel": "Buch 4",
+            "autor_id": 76,
+            "verlag_id": 53
+        },
+        {
+            "id": 5,
+            "titel": "Buch 5",
+            "autor_id": 23,
+            "verlag_id": 25
+        },
+        {
+            "id": 6,
+            "titel": "Buch 6",
+            "autor_id": 11,
+            "verlag_id": 78
+        },
+        {
+            "id": 7,
+            "titel": "Buch 7",
+            "autor_id": 66,
+            "verlag_id": 93
+        },
+        {
+            "id": 8,
+            "titel": "Buch 8",
+            "autor_id": 66,
+            "verlag_id": 28
+        },
+        {
+            "id": 9,
+            "titel": "Buch 9",
+            "autor_id": 5,
+            "verlag_id": 8
+        },
+        {
+            "id": 10,
+            "titel": "Buch 10",
+            "autor_id": 70,
+            "verlag_id": 24
+        },
+        {
+            "id": 11,
+            "titel": "Buch 11",
+            "autor_id": 46,
+            "verlag_id": 73
+        },
+        {
+            "id": 12,
+            "titel": "Buch 12",
+            "autor_id": 27,
+            "verlag_id": 89
+        },
+        {
+            "id": 13,
+            "titel": "Buch 13",
+            "autor_id": 27,
+            "verlag_id": 2
+        },
+        {
+            "id": 14,
+            "titel": "Buch 14",
+            "autor_id": 49,
+            "verlag_id": 87
+        },
+        {
+            "id": 15,
+            "titel": "Buch 15",
+            "autor_id": 51,
+            "verlag_id": 36
+        },
+        {
+            "id": 16,
+            "titel": "Buch 16",
+            "autor_id": 71,
+            "verlag_id": 93
+        },
+        {
+            "id": 17,
+            "titel": "Buch 17",
+            "autor_id": 50,
+            "verlag_id": 11
+        },
+        {
+            "id": 18,
+            "titel": "Buch 18",
+            "autor_id": 64,
+            "verlag_id": 38
+        },
+        {
+            "id": 19,
+            "titel": "Buch 19",
+            "autor_id": 65,
+            "verlag_id": 51
+        },
+        {
+            "id": 20,
+            "titel": "Buch 20",
+            "autor_id": 26,
+            "verlag_id": 62
+        },
+        {
+            "id": 21,
+            "titel": "Buch 21",
+            "autor_id": 35,
+            "verlag_id": 36
+        },
+        {
+            "id": 22,
+            "titel": "Buch 22",
+            "autor_id": 99,
+            "verlag_id": 55
+        },
+        {
+            "id": 23,
+            "titel": "Buch 23",
+            "autor_id": 19,
+            "verlag_id": 99
+        },
+        {
+            "id": 24,
+            "titel": "Buch 24",
+            "autor_id": 29,
+            "verlag_id": 81
+        },
+        {
+            "id": 25,
+            "titel": "Buch 25",
+            "autor_id": 92,
+            "verlag_id": 83
+        },
+        {
+            "id": 26,
+            "titel": "Buch 26",
+            "autor_id": 55,
+            "verlag_id": 31
+        },
+        {
+            "id": 27,
+            "titel": "Buch 27",
+            "autor_id": 62,
+            "verlag_id": 33
+        },
+        {
+            "id": 28,
+            "titel": "Buch 28",
+            "autor_id": 98,
+            "verlag_id": 88
+        },
+        {
+            "id": 29,
+            "titel": "Buch 29",
+            "autor_id": 45,
+            "verlag_id": 57
+        },
+        {
+            "id": 30,
+            "titel": "Buch 30",
+            "autor_id": 55,
+            "verlag_id": 3
+        },
+        {
+            "id": 31,
+            "titel": "Buch 31",
+            "autor_id": 11,
+            "verlag_id": 57
+        },
+        {
+            "id": 32,
+            "titel": "Buch 32",
+            "autor_id": 59,
+            "verlag_id": 1
+        },
+        {
+            "id": 33,
+            "titel": "Buch 33",
+            "autor_id": 62,
+            "verlag_id": 55
+        },
+        {
+            "id": 34,
+            "titel": "Buch 34",
+            "autor_id": 44,
+            "verlag_id": 95
+        },
+        {
+            "id": 35,
+            "titel": "Buch 35",
+            "autor_id": 97,
+            "verlag_id": 62
+        },
+        {
+            "id": 36,
+            "titel": "Buch 36",
+            "autor_id": 91,
+            "verlag_id": 58
+        },
+        {
+            "id": 37,
+            "titel": "Buch 37",
+            "autor_id": 34,
+            "verlag_id": 12
+        },
+        {
+            "id": 38,
+            "titel": "Buch 38",
+            "autor_id": 21,
+            "verlag_id": 30
+        },
+        {
+            "id": 39,
+            "titel": "Buch 39",
+            "autor_id": 67,
+            "verlag_id": 78
+        },
+        {
+            "id": 40,
+            "titel": "Buch 40",
+            "autor_id": 4,
+            "verlag_id": 83
+        },
+        {
+            "id": 41,
+            "titel": "Buch 41",
+            "autor_id": 15,
+            "verlag_id": 12
+        },
+        {
+            "id": 42,
+            "titel": "Buch 42",
+            "autor_id": 98,
+            "verlag_id": 2
+        },
+        {
+            "id": 43,
+            "titel": "Buch 43",
+            "autor_id": 76,
+            "verlag_id": 58
+        },
+        {
+            "id": 44,
+            "titel": "Buch 44",
+            "autor_id": 39,
+            "verlag_id": 32
+        },
+        {
+            "id": 45,
+            "titel": "Buch 45",
+            "autor_id": 93,
+            "verlag_id": 65
+        },
+        {
+            "id": 46,
+            "titel": "Buch 46",
+            "autor_id": 22,
+            "verlag_id": 53
+        },
+        {
+            "id": 47,
+            "titel": "Buch 47",
+            "autor_id": 43,
+            "verlag_id": 66
+        },
+        {
+            "id": 48,
+            "titel": "Buch 48",
+            "autor_id": 40,
+            "verlag_id": 92
+        },
+        {
+            "id": 49,
+            "titel": "Buch 49",
+            "autor_id": 65,
+            "verlag_id": 75
+        },
+        {
+            "id": 50,
+            "titel": "Buch 50",
+            "autor_id": 43,
+            "verlag_id": 94
+        },
+        {
+            "id": 51,
+            "titel": "Buch 51",
+            "autor_id": 55,
+            "verlag_id": 68
+        },
+        {
+            "id": 52,
+            "titel": "Buch 52",
+            "autor_id": 46,
+            "verlag_id": 14
+        },
+        {
+            "id": 53,
+            "titel": "Buch 53",
+            "autor_id": 85,
+            "verlag_id": 97
+        },
+        {
+            "id": 54,
+            "titel": "Buch 54",
+            "autor_id": 88,
+            "verlag_id": 29
+        },
+        {
+            "id": 55,
+            "titel": "Buch 55",
+            "autor_id": 76,
+            "verlag_id": 39
+        },
+        {
+            "id": 56,
+            "titel": "Buch 56",
+            "autor_id": 35,
+            "verlag_id": 44
+        },
+        {
+            "id": 57,
+            "titel": "Buch 57",
+            "autor_id": 36,
+            "verlag_id": 91
+        },
+        {
+            "id": 58,
+            "titel": "Buch 58",
+            "autor_id": 32,
+            "verlag_id": 25
+        },
+        {
+            "id": 59,
+            "titel": "Buch 59",
+            "autor_id": 99,
+            "verlag_id": 68
+        },
+        {
+            "id": 60,
+            "titel": "Buch 60",
+            "autor_id": 44,
+            "verlag_id": 37
+        },
+        {
+            "id": 61,
+            "titel": "Buch 61",
+            "autor_id": 68,
+            "verlag_id": 25
+        },
+        {
+            "id": 62,
+            "titel": "Buch 62",
+            "autor_id": 71,
+            "verlag_id": 35
+        },
+        {
+            "id": 63,
+            "titel": "Buch 63",
+            "autor_id": 64,
+            "verlag_id": 73
+        },
+        {
+            "id": 64,
+            "titel": "Buch 64",
+            "autor_id": 35,
+            "verlag_id": 6
+        },
+        {
+            "id": 65,
+            "titel": "Buch 65",
+            "autor_id": 7,
+            "verlag_id": 76
+        },
+        {
+            "id": 66,
+            "titel": "Buch 66",
+            "autor_id": 50,
+            "verlag_id": 50
+        },
+        {
+            "id": 67,
+            "titel": "Buch 67",
+            "autor_id": 49,
+            "verlag_id": 80
+        },
+        {
+            "id": 68,
+            "titel": "Buch 68",
+            "autor_id": 94,
+            "verlag_id": 9
+        },
+        {
+            "id": 69,
+            "titel": "Buch 69",
+            "autor_id": 89,
+            "verlag_id": 80
+        },
+        {
+            "id": 70,
+            "titel": "Buch 70",
+            "autor_id": 64,
+            "verlag_id": 78
+        },
+        {
+            "id": 71,
+            "titel": "Buch 71",
+            "autor_id": 93,
+            "verlag_id": 27
+        },
+        {
+            "id": 72,
+            "titel": "Buch 72",
+            "autor_id": 17,
+            "verlag_id": 25
+        },
+        {
+            "id": 73,
+            "titel": "Buch 73",
+            "autor_id": 86,
+            "verlag_id": 42
+        },
+        {
+            "id": 74,
+            "titel": "Buch 74",
+            "autor_id": 11,
+            "verlag_id": 51
+        },
+        {
+            "id": 75,
+            "titel": "Buch 75",
+            "autor_id": 14,
+            "verlag_id": 53
+        },
+        {
+            "id": 76,
+            "titel": "Buch 76",
+            "autor_id": 74,
+            "verlag_id": 85
+        },
+        {
+            "id": 77,
+            "titel": "Buch 77",
+            "autor_id": 1,
+            "verlag_id": 16
+        },
+        {
+            "id": 78,
+            "titel": "Buch 78",
+            "autor_id": 98,
+            "verlag_id": 75
+        },
+        {
+            "id": 79,
+            "titel": "Buch 79",
+            "autor_id": 43,
+            "verlag_id": 88
+        },
+        {
+            "id": 80,
+            "titel": "Buch 80",
+            "autor_id": 9,
+            "verlag_id": 72
+        },
+        {
+            "id": 81,
+            "titel": "Buch 81",
+            "autor_id": 11,
+            "verlag_id": 12
+        },
+        {
+            "id": 82,
+            "titel": "Buch 82",
+            "autor_id": 86,
+            "verlag_id": 100
+        },
+        {
+            "id": 83,
+            "titel": "Buch 83",
+            "autor_id": 52,
+            "verlag_id": 95
+        },
+        {
+            "id": 84,
+            "titel": "Buch 84",
+            "autor_id": 56,
+            "verlag_id": 28
+        },
+        {
+            "id": 85,
+            "titel": "Buch 85",
+            "autor_id": 74,
+            "verlag_id": 36
+        },
+        {
+            "id": 86,
+            "titel": "Buch 86",
+            "autor_id": 90,
+            "verlag_id": 29
+        },
+        {
+            "id": 87,
+            "titel": "Buch 87",
+            "autor_id": 99,
+            "verlag_id": 42
+        },
+        {
+            "id": 88,
+            "titel": "Buch 88",
+            "autor_id": 15,
+            "verlag_id": 91
+        },
+        {
+            "id": 89,
+            "titel": "Buch 89",
+            "autor_id": 97,
+            "verlag_id": 92
+        },
+        {
+            "id": 90,
+            "titel": "Buch 90",
+            "autor_id": 61,
+            "verlag_id": 61
+        },
+        {
+            "id": 91,
+            "titel": "Buch 91",
+            "autor_id": 32,
+            "verlag_id": 36
+        },
+        {
+            "id": 92,
+            "titel": "Buch 92",
+            "autor_id": 82,
+            "verlag_id": 18
+        },
+        {
+            "id": 93,
+            "titel": "Buch 93",
+            "autor_id": 86,
+            "verlag_id": 94
+        },
+        {
+            "id": 94,
+            "titel": "Buch 94",
+            "autor_id": 34,
+            "verlag_id": 28
+        },
+        {
+            "id": 95,
+            "titel": "Buch 95",
+            "autor_id": 87,
+            "verlag_id": 39
+        },
+        {
+            "id": 96,
+            "titel": "Buch 96",
+            "autor_id": 37,
+            "verlag_id": 100
+        },
+        {
+            "id": 97,
+            "titel": "Buch 97",
+            "autor_id": 50,
+            "verlag_id": 75
+        },
+        {
+            "id": 98,
+            "titel": "Buch 98",
+            "autor_id": 12,
+            "verlag_id": 60
+        },
+        {
+            "id": 99,
+            "titel": "Buch 99",
+            "autor_id": 10,
+            "verlag_id": 74
+        },
+        {
+            "id": 100,
+            "titel": "Buch 100",
+            "autor_id": 93,
+            "verlag_id": 55
+        }
+    ],
+    "verlage": [
+        {
+            "id": 1,
+            "name": "Verlag 1",
+            "adresse": "Adresse 1"
+        },
+        {
+            "id": 2,
+            "name": "Verlag 2",
+            "adresse": "Adresse 2"
+        },
+        {
+            "id": 3,
+            "name": "Verlag 3",
+            "adresse": "Adresse 3"
+        },
+        {
+            "id": 4,
+            "name": "Verlag 4",
+            "adresse": "Adresse 4"
+        },
+        {
+            "id": 5,
+            "name": "Verlag 5",
+            "adresse": "Adresse 5"
+        },
+        {
+            "id": 6,
+            "name": "Verlag 6",
+            "adresse": "Adresse 6"
+        },
+        {
+            "id": 7,
+            "name": "Verlag 7",
+            "adresse": "Adresse 7"
+        },
+        {
+            "id": 8,
+            "name": "Verlag 8",
+            "adresse": "Adresse 8"
+        },
+        {
+            "id": 9,
+            "name": "Verlag 9",
+            "adresse": "Adresse 9"
+        },
+        {
+            "id": 10,
+            "name": "Verlag 10",
+            "adresse": "Adresse 10"
+        },
+        {
+            "id": 11,
+            "name": "Verlag 11",
+            "adresse": "Adresse 11"
+        },
+        {
+            "id": 12,
+            "name": "Verlag 12",
+            "adresse": "Adresse 12"
+        },
+        {
+            "id": 13,
+            "name": "Verlag 13",
+            "adresse": "Adresse 13"
+        },
+        {
+            "id": 14,
+            "name": "Verlag 14",
+            "adresse": "Adresse 14"
+        },
+        {
+            "id": 15,
+            "name": "Verlag 15",
+            "adresse": "Adresse 15"
+        },
+        {
+            "id": 16,
+            "name": "Verlag 16",
+            "adresse": "Adresse 16"
+        },
+        {
+            "id": 17,
+            "name": "Verlag 17",
+            "adresse": "Adresse 17"
+        },
+        {
+            "id": 18,
+            "name": "Verlag 18",
+            "adresse": "Adresse 18"
+        },
+        {
+            "id": 19,
+            "name": "Verlag 19",
+            "adresse": "Adresse 19"
+        },
+        {
+            "id": 20,
+            "name": "Verlag 20",
+            "adresse": "Adresse 20"
+        },
+        {
+            "id": 21,
+            "name": "Verlag 21",
+            "adresse": "Adresse 21"
+        },
+        {
+            "id": 22,
+            "name": "Verlag 22",
+            "adresse": "Adresse 22"
+        },
+        {
+            "id": 23,
+            "name": "Verlag 23",
+            "adresse": "Adresse 23"
+        },
+        {
+            "id": 24,
+            "name": "Verlag 24",
+            "adresse": "Adresse 24"
+        },
+        {
+            "id": 25,
+            "name": "Verlag 25",
+            "adresse": "Adresse 25"
+        },
+        {
+            "id": 26,
+            "name": "Verlag 26",
+            "adresse": "Adresse 26"
+        },
+        {
+            "id": 27,
+            "name": "Verlag 27",
+            "adresse": "Adresse 27"
+        },
+        {
+            "id": 28,
+            "name": "Verlag 28",
+            "adresse": "Adresse 28"
+        },
+        {
+            "id": 29,
+            "name": "Verlag 29",
+            "adresse": "Adresse 29"
+        },
+        {
+            "id": 30,
+            "name": "Verlag 30",
+            "adresse": "Adresse 30"
+        },
+        {
+            "id": 31,
+            "name": "Verlag 31",
+            "adresse": "Adresse 31"
+        },
+        {
+            "id": 32,
+            "name": "Verlag 32",
+            "adresse": "Adresse 32"
+        },
+        {
+            "id": 33,
+            "name": "Verlag 33",
+            "adresse": "Adresse 33"
+        },
+        {
+            "id": 34,
+            "name": "Verlag 34",
+            "adresse": "Adresse 34"
+        },
+        {
+            "id": 35,
+            "name": "Verlag 35",
+            "adresse": "Adresse 35"
+        },
+        {
+            "id": 36,
+            "name": "Verlag 36",
+            "adresse": "Adresse 36"
+        },
+        {
+            "id": 37,
+            "name": "Verlag 37",
+            "adresse": "Adresse 37"
+        },
+        {
+            "id": 38,
+            "name": "Verlag 38",
+            "adresse": "Adresse 38"
+        },
+        {
+            "id": 39,
+            "name": "Verlag 39",
+            "adresse": "Adresse 39"
+        },
+        {
+            "id": 40,
+            "name": "Verlag 40",
+            "adresse": "Adresse 40"
+        },
+        {
+            "id": 41,
+            "name": "Verlag 41",
+            "adresse": "Adresse 41"
+        },
+        {
+            "id": 42,
+            "name": "Verlag 42",
+            "adresse": "Adresse 42"
+        },
+        {
+            "id": 43,
+            "name": "Verlag 43",
+            "adresse": "Adresse 43"
+        },
+        {
+            "id": 44,
+            "name": "Verlag 44",
+            "adresse": "Adresse 44"
+        },
+        {
+            "id": 45,
+            "name": "Verlag 45",
+            "adresse": "Adresse 45"
+        },
+        {
+            "id": 46,
+            "name": "Verlag 46",
+            "adresse": "Adresse 46"
+        },
+        {
+            "id": 47,
+            "name": "Verlag 47",
+            "adresse": "Adresse 47"
+        },
+        {
+            "id": 48,
+            "name": "Verlag 48",
+            "adresse": "Adresse 48"
+        },
+        {
+            "id": 49,
+            "name": "Verlag 49",
+            "adresse": "Adresse 49"
+        },
+        {
+            "id": 50,
+            "name": "Verlag 50",
+            "adresse": "Adresse 50"
+        },
+        {
+            "id": 51,
+            "name": "Verlag 51",
+            "adresse": "Adresse 51"
+        },
+        {
+            "id": 52,
+            "name": "Verlag 52",
+            "adresse": "Adresse 52"
+        },
+        {
+            "id": 53,
+            "name": "Verlag 53",
+            "adresse": "Adresse 53"
+        },
+        {
+            "id": 54,
+            "name": "Verlag 54",
+            "adresse": "Adresse 54"
+        },
+        {
+            "id": 55,
+            "name": "Verlag 55",
+            "adresse": "Adresse 55"
+        },
+        {
+            "id": 56,
+            "name": "Verlag 56",
+            "adresse": "Adresse 56"
+        },
+        {
+            "id": 57,
+            "name": "Verlag 57",
+            "adresse": "Adresse 57"
+        },
+        {
+            "id": 58,
+            "name": "Verlag 58",
+            "adresse": "Adresse 58"
+        },
+        {
+            "id": 59,
+            "name": "Verlag 59",
+            "adresse": "Adresse 59"
+        },
+        {
+            "id": 60,
+            "name": "Verlag 60",
+            "adresse": "Adresse 60"
+        },
+        {
+            "id": 61,
+            "name": "Verlag 61",
+            "adresse": "Adresse 61"
+        },
+        {
+            "id": 62,
+            "name": "Verlag 62",
+            "adresse": "Adresse 62"
+        },
+        {
+            "id": 63,
+            "name": "Verlag 63",
+            "adresse": "Adresse 63"
+        },
+        {
+            "id": 64,
+            "name": "Verlag 64",
+            "adresse": "Adresse 64"
+        },
+        {
+            "id": 65,
+            "name": "Verlag 65",
+            "adresse": "Adresse 65"
+        },
+        {
+            "id": 66,
+            "name": "Verlag 66",
+            "adresse": "Adresse 66"
+        },
+        {
+            "id": 67,
+            "name": "Verlag 67",
+            "adresse": "Adresse 67"
+        },
+        {
+            "id": 68,
+            "name": "Verlag 68",
+            "adresse": "Adresse 68"
+        },
+        {
+            "id": 69,
+            "name": "Verlag 69",
+            "adresse": "Adresse 69"
+        },
+        {
+            "id": 70,
+            "name": "Verlag 70",
+            "adresse": "Adresse 70"
+        },
+        {
+            "id": 71,
+            "name": "Verlag 71",
+            "adresse": "Adresse 71"
+        },
+        {
+            "id": 72,
+            "name": "Verlag 72",
+            "adresse": "Adresse 72"
+        },
+        {
+            "id": 73,
+            "name": "Verlag 73",
+            "adresse": "Adresse 73"
+        },
+        {
+            "id": 74,
+            "name": "Verlag 74",
+            "adresse": "Adresse 74"
+        },
+        {
+            "id": 75,
+            "name": "Verlag 75",
+            "adresse": "Adresse 75"
+        },
+        {
+            "id": 76,
+            "name": "Verlag 76",
+            "adresse": "Adresse 76"
+        },
+        {
+            "id": 77,
+            "name": "Verlag 77",
+            "adresse": "Adresse 77"
+        },
+        {
+            "id": 78,
+            "name": "Verlag 78",
+            "adresse": "Adresse 78"
+        },
+        {
+            "id": 79,
+            "name": "Verlag 79",
+            "adresse": "Adresse 79"
+        },
+        {
+            "id": 80,
+            "name": "Verlag 80",
+            "adresse": "Adresse 80"
+        },
+        {
+            "id": 81,
+            "name": "Verlag 81",
+            "adresse": "Adresse 81"
+        },
+        {
+            "id": 82,
+            "name": "Verlag 82",
+            "adresse": "Adresse 82"
+        },
+        {
+            "id": 83,
+            "name": "Verlag 83",
+            "adresse": "Adresse 83"
+        },
+        {
+            "id": 84,
+            "name": "Verlag 84",
+            "adresse": "Adresse 84"
+        },
+        {
+            "id": 85,
+            "name": "Verlag 85",
+            "adresse": "Adresse 85"
+        },
+        {
+            "id": 86,
+            "name": "Verlag 86",
+            "adresse": "Adresse 86"
+        },
+        {
+            "id": 87,
+            "name": "Verlag 87",
+            "adresse": "Adresse 87"
+        },
+        {
+            "id": 88,
+            "name": "Verlag 88",
+            "adresse": "Adresse 88"
+        },
+        {
+            "id": 89,
+            "name": "Verlag 89",
+            "adresse": "Adresse 89"
+        },
+        {
+            "id": 90,
+            "name": "Verlag 90",
+            "adresse": "Adresse 90"
+        },
+        {
+            "id": 91,
+            "name": "Verlag 91",
+            "adresse": "Adresse 91"
+        },
+        {
+            "id": 92,
+            "name": "Verlag 92",
+            "adresse": "Adresse 92"
+        },
+        {
+            "id": 93,
+            "name": "Verlag 93",
+            "adresse": "Adresse 93"
+        },
+        {
+            "id": 94,
+            "name": "Verlag 94",
+            "adresse": "Adresse 94"
+        },
+        {
+            "id": 95,
+            "name": "Verlag 95",
+            "adresse": "Adresse 95"
+        },
+        {
+            "id": 96,
+            "name": "Verlag 96",
+            "adresse": "Adresse 96"
+        },
+        {
+            "id": 97,
+            "name": "Verlag 97",
+            "adresse": "Adresse 97"
+        },
+        {
+            "id": 98,
+            "name": "Verlag 98",
+            "adresse": "Adresse 98"
+        },
+        {
+            "id": 99,
+            "name": "Verlag 99",
+            "adresse": "Adresse 99"
+        },
+        {
+            "id": 100,
+            "name": "Verlag 100",
+            "adresse": "Adresse 100"
+        }
+    ]
+}
